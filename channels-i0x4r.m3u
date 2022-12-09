@@ -1,21 +1,21 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://github.com/i0x4r/Channels/raw/main/C0CC1AD6-3735-415D-A205-6DA844FB1E44.png" group-title="Ungrouped", BeIN 4K
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/8BBB0FBE-F704-471E-9DF7-3DBCFFB2FED3.jpeg" group-title="Ungrouped", twitter @i0x4r
 https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/93_.m3u8
 #EXTINF: 10 tvg-logo="https://github.com/i0x4r/Channels/raw/main/C0CC1AD6-3735-415D-A205-6DA844FB1E44.png" group-title="Ungrouped", Bein Max 1 HD
-https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/196_.m3u8
+https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/193_.m3u8
 #EXTINF: 10 tvg-logo="https://github.com/i0x4r/Channels/raw/main/C0CC1AD6-3735-415D-A205-6DA844FB1E44.png" group-title="Ungrouped", BeIN Max 2 HD
-https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/197_.m3u8
+https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/197_.m3u8
 #EXTINF: 13 tvg-logo="https://github.com/i0x4r/Channels/raw/main/C0CC1AD6-3735-415D-A205-6DA844FB1E44.png" group-title="Ungrouped", BeIN Max 3 HD
-https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/198_.m3u8
+https://x.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/198_.m3u8
 #EXTINF: 10 tvg-logo="https://github.com/i0x4r/Channels/raw/main/C0CC1AD6-3735-415D-A205-6DA844FB1E44.png" group-title="Ungrouped", BeIN Max 4 HD
 https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/154_.m3u8
 #EXTINF: 7 tvg-logo="https://github.com/i0x4r/Channels/raw/main/1A2E51A6-DC41-4747-9BE0-4F1028CA80D7.jpeg" group-title="Ungrouped", ALKASS Extra 1 HD
 https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/203_.m3u8
 #EXTINF: 10 tvg-logo="https://github.com/i0x4r/Channels/raw/main/1A2E51A6-DC41-4747-9BE0-4F1028CA80D7.jpeg" group-title="Ungrouped", ALKASS Extra 2 HD
 https://x.fwzr.xyz:25463/r2D7rpeWf7NXkN98/204_.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/C6B8121D-92B7-4D6B-8E6D-2AC3940412D4.webp" group-title="Ungrouped", AbuDhabi Sport 1 HD
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/9B5F5919-B65C-4056-B2B4-7B5C757198F7.png" group-title="Ungrouped", AbuDhabi Sport 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/C6B8121D-92B7-4D6B-8E6D-2AC3940412D4.webp" group-title="Ungrouped", AbuDhabi Sport 2 HD
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/9B5F5919-B65C-4056-B2B4-7B5C757198F7.png" group-title="Ungrouped", AbuDhabi Sport 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/C35578AE-B3D8-4B4E-A699-6E2D45469AD9.jpeg" group-title="Ungrouped", SSC 1 HD
 https://koraflix.online:25463/hjNsLHEVxgm9gmRX/159_.m3u8
@@ -25,5 +25,7 @@ https://koraflix.online:25463/hjNsLHEVxgm9gmRX/163_.m3u8
 https://koraflix.online:25463/hjNsLHEVxgm9gmRX/147_.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/C35578AE-B3D8-4B4E-A699-6E2D45469AD9.jpeg" group-title="Ungrouped", SSC 4 HD
 https://koraflix.online:25463/hjNsLHEVxgm9gmRX/178_.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/69B6E56E-E169-4B8F-AC8D-0C4E8515A7E2.jpeg" group-title="Ungrouped", MBC 2 HD
+https://koraflix.online:25463/hjNsLHEVxgm9gmRX/15_.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/i0x4r/Channels/main/69B6E56E-E169-4B8F-AC8D-0C4E8515A7E2.jpeg" group-title="Ungrouped", OSN Action
 https://koraflix.online:25463/hjNsLHEVxgm9gmRX/200_.m3u8
